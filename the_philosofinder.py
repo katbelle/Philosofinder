@@ -72,7 +72,7 @@ questions = [
 
     },
     {
-        "question": "\n3. Your favorite type of movies are:",
+        "question": "\n3. Your favorite type of movies are:\n",
         "answers": (
             "A. You question what makes a good movie, you still haven’t really figured it out yet.\n "
             "B. Movies with clear-cut morals at the end.\n"
@@ -82,7 +82,7 @@ questions = [
     },
     {
         "question": "\n4. You’re a proud New Yorker. A tourist walks up to you "
-        "and asks you how to get to Times Square, you: ",
+        "and asks you how to get to Times Square, you: \n",
         "answers": (
             "A. Ask them if they’ve ever been to Times Square, and then ask them why on earth they’d ever want to.\n"
             "B. Admit that you can’t remember and pull out google maps.\n"
