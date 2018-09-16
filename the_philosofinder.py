@@ -81,8 +81,8 @@ questions = [
         )
     },
     {
-        "question": "\n4. You’re a proud New Yorker. A tourist walks up to you",
-        "and asks you how to get to Times Square, you: "
+        "question": "\n4. You’re a proud New Yorker. A tourist walks up to you"
+        "and asks you how to get to Times Square, you: ",
         "answers": (
             "A. Ask them if they’ve ever been to Times Square, and then ask them why on earth they’d ever want to.\n"
             "B. Admit that you can’t remember and pull out google maps.\n"
